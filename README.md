@@ -1,3 +1,5 @@
+> Project originally developed in IntelliJ IDEA and later uploaded to GitHub as part of my programming portfolio.
+
 # Anagram Generator
 A Java application that generates full and partial anagrams of user-provided words and searches for valid matches using a Binary Search Tree (BST) dictionary.
 
